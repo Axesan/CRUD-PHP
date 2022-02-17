@@ -4,7 +4,7 @@ Un crud ces quoi ?
 "CRUD" est l'abbréviation de : Create,Read,Update,Delete .
 
 Nous avons notre page d'accueil qui ce situe dans "index.php" . 
-Qui nous permettra d'afficher les utilisateurs de nos base de données .
+Qui nous permettra d'afficher les utilisateurs de notre base de données .
 
 un dossier "update" qui regroupent un formulaire pour modifier les données des utilisateurs "form_update.php". 
 avec un fichier "update.php" qui contient ma requete de update . 
