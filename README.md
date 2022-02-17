@@ -15,7 +15,8 @@ Nous avons une classe "DB.class.php" qui nous permettra d'inserer et d'afficher 
 # Utilisation : 
 
 1 - Récuperer le fichier sql dans ressources/crud.sql ce fichier va vous permetre de copier la table directement dans votre base données.
-2 - Modifier les information de connexion a la base de données dans les fichiers :
+2 - Crée une base de données nommée 'users' dans phpmyadmin .  
+3 - Modifier les information de connexion a la base de données dans les fichiers :
                                         - *DB.class.php*
                                         - *delete.php* 
                                         - *update.php* 
