@@ -23,9 +23,9 @@ Nous avons une classe "DB.class.php" qui nous permettra d'inserer et d'afficher 
 
 
 
-Techno CSS : Bootstrap . 
-Techno PHP : PHP 8.0.12 .
-Lecture BDD : PDO , class . 
+- Techno CSS : Bootstrap . 
+- Techno PHP : PHP 8.0.12 .
+- Lecture BDD : PDO , class . 
 
 By AXESAN .
 
